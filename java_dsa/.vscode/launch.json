@@ -1,0 +1,931 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "keypadNumbers2",
+            "request": "launch",
+            "mainClass": "String.keypadNumbers2",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "keypadNumbers",
+            "request": "launch",
+            "mainClass": "String.keypadNumbers",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "missingLetters",
+            "request": "launch",
+            "mainClass": "String.missingLetters",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "panagram",
+            "request": "launch",
+            "mainClass": "String.panagram",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "wordWeight",
+            "request": "launch",
+            "mainClass": "String.wordWeight",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "String.anagram",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "shortNames",
+            "request": "launch",
+            "mainClass": "String.shortNames",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "stringToken",
+            "request": "launch",
+            "mainClass": "String.stringToken",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "demo10",
+            "request": "launch",
+            "mainClass": "demo10",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "demo4",
+            "request": "launch",
+            "mainClass": "demo4",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "cons",
+            "request": "launch",
+            "mainClass": "cons",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "constructor",
+            "request": "launch",
+            "mainClass": "constructor",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "multithreading2",
+            "request": "launch",
+            "mainClass": "multithreading2",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "multithreading",
+            "request": "launch",
+            "mainClass": "multithreading",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Tower_of_Hanoi",
+            "request": "launch",
+            "mainClass": "algorithm.Tower_of_Hanoi",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "quickSort",
+            "request": "launch",
+            "mainClass": "algorithm.quickSort",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Average_levels_bst",
+            "request": "launch",
+            "mainClass": "BST.Average_levels_bst",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "BST_paths",
+            "request": "launch",
+            "mainClass": "BST.BST_paths",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "InvertBST",
+            "request": "launch",
+            "mainClass": "BST.InvertBST",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortArray",
+            "request": "launch",
+            "mainClass": "BST.MergeSortArray",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Min_absolute_diff",
+            "request": "launch",
+            "mainClass": "BST.Min_absolute_diff",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Same_tree",
+            "request": "launch",
+            "mainClass": "BST.Same_tree",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Sum_root_to_leaf_no",
+            "request": "launch",
+            "mainClass": "BST.Sum_root_to_leaf_no",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Symmetric_tree",
+            "request": "launch",
+            "mainClass": "BST.Symmetric_tree",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Validate_BST",
+            "request": "launch",
+            "mainClass": "BST.Validate_BST",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "bst_demo",
+            "request": "launch",
+            "mainClass": "BST.bst_demo",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "diameter_of_binary_tree",
+            "request": "launch",
+            "mainClass": "BST.diameter_of_binary_tree",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "height_of_bst",
+            "request": "launch",
+            "mainClass": "BST.height_of_bst",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "kth_smallest_num",
+            "request": "launch",
+            "mainClass": "BST.kth_smallest_num",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "leaf_similiar_tree",
+            "request": "launch",
+            "mainClass": "BST.leaf_similiar_tree",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "level_order_traversal",
+            "request": "launch",
+            "mainClass": "BST.level_order_traversal",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "path_sum",
+            "request": "launch",
+            "mainClass": "BST.path_sum",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "print_leaves_of_bst",
+            "request": "launch",
+            "mainClass": "BST.print_leaves_of_bst",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "print_nodes_at_n_level",
+            "request": "launch",
+            "mainClass": "BST.print_nodes_at_n_level",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "range_of_bst_leetcode938",
+            "request": "launch",
+            "mainClass": "BST.range_of_bst_leetcode938",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "search_num",
+            "request": "launch",
+            "mainClass": "BST.search_num",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "sizeofBSt",
+            "request": "launch",
+            "mainClass": "BST.sizeofBSt",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "smallest_no_in_bst",
+            "request": "launch",
+            "mainClass": "BST.smallest_no_in_bst",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "zig_zag_level_order_traversal",
+            "request": "launch",
+            "mainClass": "BST.zig_zag_level_order_traversal",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "JosephusProblem",
+            "request": "launch",
+            "mainClass": "JosephusProblem",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "StringTokenizer",
+            "request": "launch",
+            "mainClass": "String.StringTokenizer",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "String.basic",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "countWords",
+            "request": "launch",
+            "mainClass": "String.countWords",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "vowelCount",
+            "request": "launch",
+            "mainClass": "String.vowelCount",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "StringsToLine",
+            "request": "launch",
+            "mainClass": "StringsToLine",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "algorithm.InsertionSort",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "algorithm.bubbleSort",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "selectionSort",
+            "request": "launch",
+            "mainClass": "algorithm.selectionSort",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "basicStack",
+            "request": "launch",
+            "mainClass": "basicStack",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "basic_arrayList",
+            "request": "launch",
+            "mainClass": "basic_arrayList",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "basic_dequeue",
+            "request": "launch",
+            "mainClass": "basic_dequeue",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "basic_pq",
+            "request": "launch",
+            "mainClass": "basic_pq",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "demo2",
+            "request": "launch",
+            "mainClass": "demo2",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoNumbers",
+            "request": "launch",
+            "mainClass": "linkedList.AddTwoNumbers",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "CycleInLinkedList",
+            "request": "launch",
+            "mainClass": "linkedList.CycleInLinkedList",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "CycleInLinkedList2",
+            "request": "launch",
+            "mainClass": "linkedList.CycleInLinkedList2",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "DeleteMiddle",
+            "request": "launch",
+            "mainClass": "linkedList.DeleteMiddle",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddIndexLL",
+            "request": "launch",
+            "mainClass": "linkedList.EvenOddIndexLL",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "linkedList.GCD",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Intersection",
+            "request": "launch",
+            "mainClass": "linkedList.Intersection",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Intersection2",
+            "request": "launch",
+            "mainClass": "linkedList.Intersection2",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "MergeInbetween",
+            "request": "launch",
+            "mainClass": "linkedList.MergeInbetween",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortedList",
+            "request": "launch",
+            "mainClass": "linkedList.MergeSortedList",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "NoStartDeletion",
+            "request": "launch",
+            "mainClass": "linkedList.NoStartDeletion",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "RemoveElement",
+            "request": "launch",
+            "mainClass": "linkedList.RemoveElement",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Reorder",
+            "request": "launch",
+            "mainClass": "linkedList.Reorder",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Reorder2",
+            "request": "launch",
+            "mainClass": "linkedList.Reorder2",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "ReverseBetween",
+            "request": "launch",
+            "mainClass": "linkedList.ReverseBetween",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "ReverseList",
+            "request": "launch",
+            "mainClass": "linkedList.ReverseList",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "SwappingNode",
+            "request": "launch",
+            "mainClass": "linkedList.SwappingNode",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "basic(1)",
+            "request": "launch",
+            "mainClass": "linkedList.basic",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "binaryToDecimal",
+            "request": "launch",
+            "mainClass": "linkedList.binaryToDecimal",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "deleteFromBack",
+            "request": "launch",
+            "mainClass": "linkedList.deleteFromBack",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "delete_kapoor",
+            "request": "launch",
+            "mainClass": "linkedList.delete_kapoor",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "equalLinkedList",
+            "request": "launch",
+            "mainClass": "linkedList.equalLinkedList",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "palindromeCheck",
+            "request": "launch",
+            "mainClass": "linkedList.palindromeCheck",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "reverseList2",
+            "request": "launch",
+            "mainClass": "linkedList.reverseList2",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "testing",
+            "request": "launch",
+            "mainClass": "linkedList.testing",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "list_of_list",
+            "request": "launch",
+            "mainClass": "list_of_list",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "basic_matrix",
+            "request": "launch",
+            "mainClass": "matrix.basic_matrix",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "lucky_number",
+            "request": "launch",
+            "mainClass": "matrix.lucky_number",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "magic_square",
+            "request": "launch",
+            "mainClass": "matrix.magic_square",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "mirror",
+            "request": "launch",
+            "mainClass": "matrix.mirror",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "negativeCount",
+            "request": "launch",
+            "mainClass": "matrix.negativeCount",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "pascal_traiangle",
+            "request": "launch",
+            "mainClass": "matrix.pascal_traiangle",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "sort_diagonal",
+            "request": "launch",
+            "mainClass": "matrix.sort_diagonal",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "sort_matrix",
+            "request": "launch",
+            "mainClass": "matrix.sort_matrix",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "spiral_matrix",
+            "request": "launch",
+            "mainClass": "matrix.spiral_matrix",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "spiral_matrix_Q54",
+            "request": "launch",
+            "mainClass": "matrix.spiral_matrix_Q54",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "submatrix",
+            "request": "launch",
+            "mainClass": "matrix.submatrix",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "transpose",
+            "request": "launch",
+            "mainClass": "matrix.transpose",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "turn_90",
+            "request": "launch",
+            "mainClass": "matrix.turn_90",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "vertical_wave",
+            "request": "launch",
+            "mainClass": "matrix.vertical_wave",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "multiple_missing_num",
+            "request": "launch",
+            "mainClass": "multiple_missing_num",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "palindrome_check",
+            "request": "launch",
+            "mainClass": "palindrome_check",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "recursion.BinarySearch",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "IntegerToBinary",
+            "request": "launch",
+            "mainClass": "recursion.IntegerToBinary",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "recursion.LinearSearch",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "NumberReverse",
+            "request": "launch",
+            "mainClass": "recursion.NumberReverse",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Smallest_Digit",
+            "request": "launch",
+            "mainClass": "recursion.Smallest_Digit",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "StringReverse",
+            "request": "launch",
+            "mainClass": "recursion.StringReverse",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "SumOfArray",
+            "request": "launch",
+            "mainClass": "recursion.SumOfArray",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "basic(2)",
+            "request": "launch",
+            "mainClass": "recursion.basic",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "recursion.factorial",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "SubsetOfString",
+            "request": "launch",
+            "mainClass": "recursion.level2.SubsetOfString",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Subsets_in_Lexographical_order",
+            "request": "launch",
+            "mainClass": "recursion.level2.Subsets_in_Lexographical_order",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Target_sum_or_not",
+            "request": "launch",
+            "mainClass": "recursion.level2.Target_sum_or_not",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "Ways_to_reach_target_sum",
+            "request": "launch",
+            "mainClass": "recursion.level2.Ways_to_reach_target_sum",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "balanced_bracket",
+            "request": "launch",
+            "mainClass": "recursion.level2.balanced_bracket",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "basic(3)",
+            "request": "launch",
+            "mainClass": "recursion.level2.basic",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "climb_stairs_leetcode70",
+            "request": "launch",
+            "mainClass": "recursion.level2.climb_stairs_leetcode70",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "combination",
+            "request": "launch",
+            "mainClass": "recursion.level2.combination",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "countNode",
+            "request": "launch",
+            "mainClass": "recursion.level2.countNode",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "recursion.level2.fibonacci",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "generate_anagrams",
+            "request": "launch",
+            "mainClass": "recursion.level2.generate_anagrams",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "leetcode131",
+            "request": "launch",
+            "mainClass": "recursion.level2.leetcode131",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "max_product",
+            "request": "launch",
+            "mainClass": "recursion.level2.max_product",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "number_partition_without_repeat",
+            "request": "launch",
+            "mainClass": "recursion.level2.number_partition_without_repeat",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "number_partitioning",
+            "request": "launch",
+            "mainClass": "recursion.level2.number_partitioning",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "palindrom_partitioning",
+            "request": "launch",
+            "mainClass": "recursion.level2.palindrom_partitioning",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "palindrome_partitioning2",
+            "request": "launch",
+            "mainClass": "recursion.level2.palindrome_partitioning2",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "prime_partitioning",
+            "request": "launch",
+            "mainClass": "recursion.level2.prime_partitioning",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "subsetOfArrays",
+            "request": "launch",
+            "mainClass": "recursion.level2.subsetOfArrays",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "subset_of_K_size",
+            "request": "launch",
+            "mainClass": "recursion.level2.subset_of_K_size",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "subsetsOfArrayLeetCode78",
+            "request": "launch",
+            "mainClass": "recursion.level2.subsetsOfArrayLeetCode78",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "ways_to_score",
+            "request": "launch",
+            "mainClass": "recursion.level2.ways_to_score",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "power",
+            "request": "launch",
+            "mainClass": "recursion.power",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigits",
+            "request": "launch",
+            "mainClass": "recursion.sumOfDigits",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "sumof1toN",
+            "request": "launch",
+            "mainClass": "recursion.sumof1toN",
+            "projectName": "vmm java_c115ba39"
+        },
+        {
+            "type": "java",
+            "name": "rotate",
+            "request": "launch",
+            "mainClass": "rotate",
+            "projectName": "vmm java_c115ba39"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "outline.problems.badges": true,
+    "outline.problems.enabled": true,
+    "outline.problems.colors": true,
+    "problems.decorations.enabled": true,
+    "problems.visibility": true
+}
