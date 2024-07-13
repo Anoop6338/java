@@ -6,6 +6,160 @@
     "configurations": [
         {
             "type": "java",
+            "name": "super_prime",
+            "request": "launch",
+            "mainClass": "String.super_prime",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "longest_gap",
+            "request": "launch",
+            "mainClass": "String.longest_gap",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "nextPrime",
+            "request": "launch",
+            "mainClass": "String.nextPrime",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "gold_bach_number",
+            "request": "launch",
+            "mainClass": "String.gold_bach_number",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "twin_prime",
+            "request": "launch",
+            "mainClass": "String.twin_prime",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "prime_num",
+            "request": "launch",
+            "mainClass": "String.prime_num",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "stringToken",
+            "request": "launch",
+            "mainClass": "String.stringToken",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "prime_no_from_string",
+            "request": "launch",
+            "mainClass": "String.prime_no_from_string",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "string_to_integer_array",
+            "request": "launch",
+            "mainClass": "String.string_to_integer_array",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "data_into_tabular_form",
+            "request": "launch",
+            "mainClass": "String.data_into_tabular_form",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "all_palindrome_inString",
+            "request": "launch",
+            "mainClass": "String.all_palindrome_inString",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "countAnagrams",
+            "request": "launch",
+            "mainClass": "String.countAnagrams",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "allSubString",
+            "request": "launch",
+            "mainClass": "String.allSubString",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "subString_of_k_size",
+            "request": "launch",
+            "mainClass": "String.subString_of_k_size",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_char_to_make_palindrome",
+            "request": "launch",
+            "mainClass": "String.min_char_to_make_palindrome",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "checkPalindrome",
+            "request": "launch",
+            "mainClass": "String.checkPalindrome",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "sort_chars",
+            "request": "launch",
+            "mainClass": "String.sort_chars",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "frequency_of_letters",
+            "request": "launch",
+            "mainClass": "String.frequency_of_letters",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "delete_kapoor",
+            "request": "launch",
+            "mainClass": "linkedList.delete_kapoor",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "deleteFromBack",
+            "request": "launch",
+            "mainClass": "linkedList.deleteFromBack",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "RemoveElement",
+            "request": "launch",
+            "mainClass": "linkedList.RemoveElement",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "Remove_consecutive_letters",
+            "request": "launch",
+            "mainClass": "String.Remove_consecutive_letters",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "keypadNumbers2",
             "request": "launch",
             "mainClass": "String.keypadNumbers2",
