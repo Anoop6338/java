@@ -6,6 +6,279 @@
     "configurations": [
         {
             "type": "java",
+            "name": "knapsack",
+            "request": "launch",
+            "mainClass": "dp.level2.memoization.knapsack",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "knapsack",
+            "request": "launch",
+            "mainClass": "dp.level2.knapsack",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "dp.level1.fibonacci",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_sq_to_represent_num",
+            "request": "launch",
+            "mainClass": "dp.level1.min_sq_to_represent_num",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_sq_to_represent_num",
+            "request": "launch",
+            "mainClass": "dp.level1.tabulation.min_sq_to_represent_num",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "coin_tower_game",
+            "request": "launch",
+            "mainClass": "dp.tabulation.coin_tower_game",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "coin_tower_game",
+            "request": "launch",
+            "mainClass": "dp.memoization.coin_tower_game",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "coin_tower_game",
+            "request": "launch",
+            "mainClass": "dp.coin_tower_game",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "jumpGame2",
+            "request": "launch",
+            "mainClass": "dp.tabulation.jumpGame2",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "jumpGame2",
+            "request": "launch",
+            "mainClass": "dp.memoization.jumpGame2",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "jumpGame2",
+            "request": "launch",
+            "mainClass": "dp.jumpGame2",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_sq_to_represent_num",
+            "request": "launch",
+            "mainClass": "dp.tabulation.min_sq_to_represent_num",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_steps_toReach1",
+            "request": "launch",
+            "mainClass": "dp.tabulation.min_steps_toReach1",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "climbing_stairs",
+            "request": "launch",
+            "mainClass": "dp.tabulation.climbing_stairs",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "kochar",
+            "request": "launch",
+            "mainClass": "String.kochar",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "quickSort",
+            "request": "launch",
+            "mainClass": "algorithm.quickSort",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "algorithm.InsertionSort",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_sq_to_represent_num",
+            "request": "launch",
+            "mainClass": "dp.min_sq_to_represent_num",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_steps_to_reach_1",
+            "request": "launch",
+            "mainClass": "dp.min_steps_to_reach_1",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "delete_duplicates_from_sorted_Array",
+            "request": "launch",
+            "mainClass": "arrays.delete_duplicates_from_sorted_Array",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "climbing_stairs_dp",
+            "request": "launch",
+            "mainClass": "dp.climbing_stairs_dp",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "climbing_stairs",
+            "request": "launch",
+            "mainClass": "dp.climbing_stairs",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci_dp",
+            "request": "launch",
+            "mainClass": "dp.fibonacci_dp",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "dp.fibonacci",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "best_time_to_buy_sell_stocks",
+            "request": "launch",
+            "mainClass": "arrays.best_time_to_buy_sell_stocks",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "shuffleString",
+            "request": "launch",
+            "mainClass": "String.shuffleString",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "rotate_string",
+            "request": "launch",
+            "mainClass": "String.rotate_string",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "remove_all_duplicates_in_string",
+            "request": "launch",
+            "mainClass": "String.remove_all_duplicates_in_string",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "valid_parenthesis",
+            "request": "launch",
+            "mainClass": "String.valid_parenthesis",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "leetcode3194",
+            "request": "launch",
+            "mainClass": "String.leetcode3194",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "permutation_diff_2_strings",
+            "request": "launch",
+            "mainClass": "String.permutation_diff_2_strings",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "find_all_anangrams",
+            "request": "launch",
+            "mainClass": "String.find_all_anangrams",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "String.anagram",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "multiply_strings",
+            "request": "launch",
+            "mainClass": "String.multiply_strings",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "group_anagrams",
+            "request": "launch",
+            "mainClass": "String.group_anagrams",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "longest_substring_without_repeating",
+            "request": "launch",
+            "mainClass": "String.longest_substring_without_repeating",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "uniqueCharacter",
+            "request": "launch",
+            "mainClass": "String.uniqueCharacter",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "String.FizzBuzz",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "lonestCommonChars",
+            "request": "launch",
+            "mainClass": "String.lonestCommonChars",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "super_prime",
             "request": "launch",
             "mainClass": "String.super_prime",
