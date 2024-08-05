@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "subSet_leetcode40",
+            "request": "launch",
+            "mainClass": "dp.level2.memoization.subSet_leetcode40",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "subset",
+            "request": "launch",
+            "mainClass": "dp.level2.tabulation.subset",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "subset",
+            "request": "launch",
+            "mainClass": "dp.level2.memoization.subset",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "subSet_leetcode40",
+            "request": "launch",
+            "mainClass": "dp.level2.subSet_leetcode40",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "subset",
+            "request": "launch",
+            "mainClass": "dp.level2.subset",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "knapsack",
+            "request": "launch",
+            "mainClass": "dp.level2.tabulation.knapsack",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "knapsack",
             "request": "launch",
             "mainClass": "dp.level2.memoization.knapsack",

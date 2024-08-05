@@ -1,10 +1,9 @@
-package dp.level2.memoization;
+package dp.level2.tabulation;
 
 import java.util.Arrays;
 
 public class knapsack {
-    
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         int weight[] = {3,1,2,5,4};
         int values[] = {10,90,30,70,40};
         int W = 10;
@@ -12,6 +11,7 @@ public class knapsack {
         
         System.out.println(knapSack(W, weight, values, n));
         printing(dp);
+
     }
 
     static int dp[][];
@@ -22,32 +22,48 @@ public class knapsack {
             // System.out.println(Arrays.toString(dp[i]));
         }
         return maxProfit(W, wt, val, n);
+        
     }
 
     static int maxProfit(int W, int wt[], int val[], int n ) { 
-        if(n==0 || W==0){   // if no item is avaiable or bag is full
-            return dp[W][n] = 0;
+        int i, j;
+        // convert base cases
+        // W=0 , n=anything  ->  maxprofit = 0
+        for(j=1;j<=n;j++){
+            dp[0][j] = 0;
         }
-        else{
-            if(dp[W][n]!=-1){       // if value is already avaiable in dp[][]
-                return dp[W][n];
-            }
-            else{
-                int index = n-1;
+
+        // W=anything , n=0  ->  maxprofit = 0
+        for(i=1;i<=W;i++){
+            dp[i][0] = 0;
+        }
+
+        // W=0 , n=0  ->  maxprofit = 0
+        dp[0][0] = 0;
+       
+
+        // change logic to loop
+        // convert W -> i , n -> j , fun() -> dp[][]
+        for(i = 1 ;i<=W; i++){
+            for(j=1; j<=n; j++){
+
+                int index = j-1;
                 int ans1 = 0, ans2 =0;
-                if(W-wt[index]>=0){     // if bag is available for storage
+                if(i-wt[index]>=0){     // if bag is available for storage
                     // include
-                    ans1 = val[index] + maxProfit(W-wt[index], wt, val, n-1 );
+                    ans1 = val[index] + dp[i-wt[index]][j-1];
                 }
     
                 // don't include 
-                ans2 = maxProfit(W, wt, val, n-1);
+                ans2 = dp[i][j-1];
     
-                return dp[W][n] = Math.max(ans1, ans2);
+                dp[i][j] = Math.max(ans1, ans2);
             }
 
         }
+        return dp[W][n];
     } 
+
 
     static void printing(int a[][]){
         for(int i=0;i<a.length;i++){
