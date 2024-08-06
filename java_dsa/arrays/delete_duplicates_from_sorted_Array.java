@@ -1,6 +1,5 @@
 package arrays;
 
-import java.util.Arrays;
 
 // leetcode 26
 public class delete_duplicates_from_sorted_Array {

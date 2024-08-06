@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "rotate_from_k",
+            "request": "launch",
+            "mainClass": "arrays.rotate_from_k",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "subSet_leetcode40",
             "request": "launch",
             "mainClass": "dp.level2.memoization.subSet_leetcode40",
