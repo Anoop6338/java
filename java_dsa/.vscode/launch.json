@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "longest_increasing_subsequence_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.longest_increasing_subsequence_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "longest_increasing_subsequence",
+            "request": "launch",
+            "mainClass": "dp.level2.longest_increasing_subsequence",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "equal_sum_partition_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.equal_sum_partition_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "equal_sum_partition",
+            "request": "launch",
+            "mainClass": "dp.level2.equal_sum_partition",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "majority_element",
+            "request": "launch",
+            "mainClass": "arrays.majority_element",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "highest_altitude",
+            "request": "launch",
+            "mainClass": "arrays.highest_altitude",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "subsets_with_diff_k",
+            "request": "launch",
+            "mainClass": "dp.level2.subsets_with_diff_k",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "pivot_index",
+            "request": "launch",
+            "mainClass": "arrays.pivot_index",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "can_place_flower",
+            "request": "launch",
+            "mainClass": "arrays.can_place_flower",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "kids_with_greatest_candies",
+            "request": "launch",
+            "mainClass": "arrays.kids_with_greatest_candies",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "product_except_self",
+            "request": "launch",
+            "mainClass": "arrays.product_except_self",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "move_zeroes",
+            "request": "launch",
+            "mainClass": "arrays.move_zeroes",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "Plus_one",
+            "request": "launch",
+            "mainClass": "arrays.Plus_one",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "single_number",
+            "request": "launch",
+            "mainClass": "arrays.single_number",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "merge_2_sorted_array",
+            "request": "launch",
+            "mainClass": "arrays.merge_2_sorted_array",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "running_sum_of_1d_arrat",
+            "request": "launch",
+            "mainClass": "arrays.running_sum_of_1d_arrat",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "intersection",
+            "request": "launch",
+            "mainClass": "arrays.intersection",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "subset_sum_gfg",
+            "request": "launch",
+            "mainClass": "dp.level2.subset_sum_gfg",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "merge_arrays",
+            "request": "launch",
+            "mainClass": "arrays.merge_arrays",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "union_of_2_arrays",
+            "request": "launch",
+            "mainClass": "arrays.union_of_2_arrays",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "monotonic_array",
+            "request": "launch",
+            "mainClass": "arrays.monotonic_array",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "all_duplicated_in_array",
+            "request": "launch",
+            "mainClass": "arrays.all_duplicated_in_array",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "containsDuplicate",
+            "request": "launch",
+            "mainClass": "arrays.containsDuplicate",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "rotate_from_k",
             "request": "launch",
             "mainClass": "arrays.rotate_from_k",

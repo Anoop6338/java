@@ -1,10 +1,10 @@
-package dp.level2.tabulation;
+package dp.level2;
 
 import java.util.Arrays;
 // leetcode 40 
 // also called target sum / combination 2
 
-public class subset {
+public class subset_tabulation {
     public static void main(String[] args) {
         int a[] ={10,1,2,7,6,1,5};
         int target = 8;
@@ -44,7 +44,7 @@ public class subset {
         //change logic to loop
         //change target -> i , n->j, fun()->dp[][]
         for(i=1; i<=target; i++){
-            for(j=1; j<=n; j++){
+            for(j=1; j<=n; j++){ 
                 int index = j-1;
                 int ans1 =0, ans2=0;
                 if(i - a[index] >= 0){

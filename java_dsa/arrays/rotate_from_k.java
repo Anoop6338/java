@@ -38,6 +38,7 @@ public class rotate_from_k {
     }
 
 
+
     static int[] reverse_2(int a[], int k){     //TC = O(N+K)
         int max = a.length-k;
         int b[] = new int[k];
@@ -66,6 +67,7 @@ public class rotate_from_k {
     }
 
 
+    
     static int[] reverse_3(int a[], int k){     //TC = O(k+N-k) = O(N)
         int max = a.length-k;     // point to which array needs not to be rotated
         int b[] = new int[a.length];

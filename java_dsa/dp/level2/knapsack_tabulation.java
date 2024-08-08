@@ -1,8 +1,8 @@
-package dp.level2.tabulation;
+package dp.level2;
 
 import java.util.Arrays;
 
-public class knapsack {
+public class knapsack_tabulation {
         public static void main(String[] args) {
         int weight[] = {3,1,2,5,4};
         int values[] = {10,90,30,70,40};

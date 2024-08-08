@@ -1,9 +1,9 @@
-package dp.level2.memoization;
+package dp.level2;
 
 import java.util.*;
 // leetcode 40 
 // also called target sum / combination 2
-public class subset {
+public class subset_memoization {
     public static void main(String[] args) {
         // int a[] ={1,2,7,8,10};
         // int target = 10;

@@ -1,8 +1,8 @@
-package dp.level2.memoization;
+package dp.level2;
 
 import java.util.Arrays;
 
-public class knapsack {
+public class knapsack_memoization {
     
     public static void main(String[] args) {
         int weight[] = {3,1,2,5,4};
