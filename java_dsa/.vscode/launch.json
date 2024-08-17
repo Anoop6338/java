@@ -6,6 +6,160 @@
     "configurations": [
         {
             "type": "java",
+            "name": "combination_sum2_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.combination_sum2_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "combination_sum2",
+            "request": "launch",
+            "mainClass": "dp.level2.combination_sum2",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "subSet_leetcode40_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.subSet_leetcode40_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "combination_sum",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.combination_sum",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "coin_change_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.coin_change_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "coin_change_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.coin_change_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "coin_change",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.coin_change",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "coin_change_2_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.coin_change_2_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "coin_change_2_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.coin_change_2_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "coin_change_2",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.coin_change_2",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "knapsack_with_duplicate_items_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.knapsack_with_duplicate_items_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "knapsack_with_duplicate_items_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.knapsack_with_duplicate_items_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "knapsack_with_duplicate_items",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.knapsack_with_duplicate_items",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_digits_of_string_after_convert",
+            "request": "launch",
+            "mainClass": "playing_with_numbers.sum_of_digits_of_string_after_convert",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "add_digits",
+            "request": "launch",
+            "mainClass": "playing_with_numbers.add_digits",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "happy_numbers",
+            "request": "launch",
+            "mainClass": "playing_with_numbers.happy_numbers",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "power_of_three",
+            "request": "launch",
+            "mainClass": "playing_with_numbers.power_of_three",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_integer",
+            "request": "launch",
+            "mainClass": "playing_with_numbers.Reverse_integer",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "transpose",
+            "request": "launch",
+            "mainClass": "matrix.transpose",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "spiral_matrix",
+            "request": "launch",
+            "mainClass": "matrix.spiral_matrix",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "conatinsDuplicate2",
+            "request": "launch",
+            "mainClass": "arrays.conatinsDuplicate2",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "longest_increasing_subsequence_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.longest_increasing_subsequence_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "longest_increasing_subsequence_memoization",
             "request": "launch",
             "mainClass": "dp.level2.longest_increasing_subsequence_memoization",
