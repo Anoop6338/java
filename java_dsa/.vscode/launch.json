@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Integer_break_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.Integer_break_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "Integer_break",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.Integer_break",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "Rod_cutting_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.Rod_cutting_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "Rod_cutting_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.Rod_cutting_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "ROd_cutting_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.ROd_cutting_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "Rod_cutting",
+            "request": "launch",
+            "mainClass": "dp.level2.unbounded_knapsack.Rod_cutting",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "combination_sum2_memoization",
             "request": "launch",
             "mainClass": "dp.level2.combination_sum2_memoization",
