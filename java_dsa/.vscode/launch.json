@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "path_sum",
+            "request": "launch",
+            "mainClass": "BST.path_sum",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "flood_fill",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.flood_fill",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "combination_lt77",
+            "request": "launch",
+            "mainClass": "recursion.practice.combination_lt77",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "number_of_path_with_k_coins_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.number_of_path_with_k_coins_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "number_of_path_with_k_coins_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.number_of_path_with_k_coins_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "number_of_path_with_k_coins",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.number_of_path_with_k_coins",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_path_sum_gfg",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.min_path_sum_gfg",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_path_sum_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.min_path_sum_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_path_sum_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.min_path_sum_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_path_sum",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.min_path_sum",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "unique_path_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.unique_path_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "unique_path_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.unique_path_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "unique_path",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.unique_path",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "ppr.test",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "Integer_break_memoization",
             "request": "launch",
             "mainClass": "dp.level2.unbounded_knapsack.Integer_break_memoization",

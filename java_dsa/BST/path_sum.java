@@ -1,6 +1,8 @@
 package BST;
 //leetcode 112
 
+import javax.swing.tree.TreeNode;
+
 public class path_sum {
     public static void main(String[] args) {
         BinarySearchTrie bst = new BinarySearchTrie();
@@ -18,23 +20,22 @@ public class path_sum {
     }
 
     static boolean hasPathSum(TNode t, int targetSum) {
-        boolean result = false;
-        checkSum(t, targetSum, result);
-        return result;
+        // Start the recursion to check for a path sum
+        return checkSum(t, targetSum);
     }
 
-    static void checkSum(TNode t, int targetSum, boolean result){
-        if(t == null){
-            return;
+    static boolean checkSum(TNode t, int targetSum) {
+        if (t == null) {
+            return false;  // No path found in a null subtree
         }
 
-        else{
-            checkSum(t.Left, targetSum-t.val, result);
-            if(targetSum == 0){
-                result = true;
-            }
-            checkSum(t.Right, targetSum-t.val, result);
+        // Check if we've reached a leaf node and the remaining targetSum equals the node's value
+        if (t.Left == null && t.Right == null && targetSum == t.val) {
+            return true;
         }
+
+        // Continue searching in the left and right subtrees
+        return checkSum(t.Left, targetSum - t.val) || checkSum(t.Right, targetSum - t.val);
     }
 
     
