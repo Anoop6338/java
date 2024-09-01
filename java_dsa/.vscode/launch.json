@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Longest_subsequence_string_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.Longest_subsequence_string_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "Longest_subsequence_string_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.Longest_subsequence_string_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "Longest_subsequence_string",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.Longest_subsequence_string",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "target_sum_using_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.target_sum_using_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "target_sum_using_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.target_sum_using_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "target_sum_using",
+            "request": "launch",
+            "mainClass": "dp.level2.matrix_dp.target_sum_using",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "path_sum",
             "request": "launch",
             "mainClass": "BST.path_sum",
