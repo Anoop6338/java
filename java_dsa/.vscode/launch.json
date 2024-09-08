@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "min_deletion_to_make_palindrome",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.min_deletion_to_make_palindrome",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_insertion_to_make_palindrome",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.min_insertion_to_make_palindrome",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "min_insertion_and_deletion",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.min_insertion_and_deletion",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "permutation_in_string_pdated",
             "request": "launch",
             "mainClass": "extras.sliding_window.permutation_in_string_pdated",
