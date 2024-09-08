@@ -3,7 +3,7 @@ package extras.sliding_window;
 import java.util.HashMap;
 // leetcode 567
 
-public class permutation_in_string_pdated {
+public class permutation_in_string_updated {
         public static void main(String[] args) {
         String s1 = "ab", s2 = "eidbaooo";
         // String s1 ="ab", s2 = "a";
