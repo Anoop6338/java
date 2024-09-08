@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "permutation_in_string_pdated",
+            "request": "launch",
+            "mainClass": "extras.sliding_window.permutation_in_string_pdated",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "permutation_in_string",
+            "request": "launch",
+            "mainClass": "extras.sliding_window.permutation_in_string",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "max_vowels_updated",
+            "request": "launch",
+            "mainClass": "extras.sliding_window.max_vowels_updated",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "max_vowels",
+            "request": "launch",
+            "mainClass": "extras.sliding_window.max_vowels",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "LPS",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.LPS",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "print_lcs__tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.print_lcs__tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "print_lcs_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.print_lcs_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "print_lcs",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.print_lcs",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "bug_integer_fibo",
+            "request": "launch",
+            "mainClass": "extras.bug_integer_fibo",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "big_integer",
+            "request": "launch",
+            "mainClass": "extras.big_integer",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "Longest_subsequence_string_tabulation",
             "request": "launch",
             "mainClass": "dp.level2.LCS.Longest_subsequence_string_tabulation",
