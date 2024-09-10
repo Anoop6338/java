@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "max_subarray_with_indices",
+            "request": "launch",
+            "mainClass": "kadane.max_subarray_with_indices",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "max_subarray",
             "request": "launch",
             "mainClass": "kadane.max_subarray",
