@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "max_subarray",
+            "request": "launch",
+            "mainClass": "kadane.max_subarray",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "edit_distance",
+            "request": "launch",
+            "mainClass": "dp.level2.string_style.edit_distance",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "edit_distance_tabulation",
+            "request": "launch",
+            "mainClass": "dp.level2.string_style.edit_distance_tabulation",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "edit_distance_memoization",
+            "request": "launch",
+            "mainClass": "dp.level2.string_style.edit_distance_memoization",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
+            "name": "edit_distance",
+            "request": "launch",
+            "mainClass": "dp.level2.LCS.edit_distance",
+            "projectName": "java_dsa_708638b5"
+        },
+        {
+            "type": "java",
             "name": "min_deletion_to_make_palindrome",
             "request": "launch",
             "mainClass": "dp.level2.LCS.min_deletion_to_make_palindrome",
